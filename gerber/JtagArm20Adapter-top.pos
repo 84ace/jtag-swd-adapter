@@ -1,0 +1,20 @@
+### Module positions - created on Tuesday, 21 June 2022 at 02:10:30 pm ###
+### Printed by Pcbnew version (6.99.0-1917-g23fb4c7433)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                                   PosX       PosY       Rot  Side
+C1        1u                       C_0603_1608Metric                      27.8200    18.7200  -90.0000  top
+C2        1u                       C_0603_1608Metric                      22.0700    18.9700   90.0000  top
+C3        1u                       C_0603_1608Metric                      27.8200    14.9700   90.0000  top
+C4        1u                       C_0603_1608Metric                      22.0700    14.9700   90.0000  top
+J1        Conn_02x05_Odd_Even      PinHeader_2x05_P1.27mm_Vertical_SMD    25.0700     8.2200  180.0000  top
+J2        Conn_02x03_Odd_Even      PinHeader_2x03_P2.54mm_Vertical_SMD    10.8200    13.7200  180.0000  top
+J3        Conn_01x06               PinHeader_1x06_P2.54mm_Vertical         7.6900     2.1300   90.0000  top
+J4        Conn_02x10_Odd_Even      PinSocket_2x10_P2.54mm_Horizontal       3.8100    26.6700    0.0000  top
+J5        Conn_02x03_Odd_Even      PinHeader_2x03_P2.54mm_Vertical_SMD    24.3200    26.1200  180.0000  top
+J6        USB_C_Receptacle_USB2.0  USB_C_Receptacle_HRO_TYPE-C-31-M-12    11.8200    27.4700  180.0000  top
+R1        5.1k                     R_0603_1608Metric                      14.0700    20.9700  180.0000  top
+R2        5.1k                     R_0603_1608Metric                       9.3200    20.9700    0.0000  top
+U1        1.8V_LDO                 SOT-23                                 24.8200    18.9700    0.0000  top
+U2        3.3V_LDO                 SOT-23                                 24.8200    14.9700    0.0000  top
+## End

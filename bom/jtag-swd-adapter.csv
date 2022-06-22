@@ -1,0 +1,9 @@
+Qty,Reference(s),Value,Footprint,lcsc
+4,"JTAG:C1, C2, C3, C4",1u,Capacitor_SMD:C_0603_1608Metric,C14445
+1,JTAG:J1,Conn_02x05_Odd_Even,Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD,C2935458
+2,"JTAG:J2, J5",Conn_02x03_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD,C721864
+1,JTAG:J4,Conn_02x10_Odd_Even,Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Horizontal,C124406
+1,JTAG:J6,USB_C_Receptacle_USB2.0,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,C165948
+2,"JTAG:R1, R2",5.1k,Resistor_SMD:R_0603_1608Metric,C156350
+1,JTAG:U1,1.8V LDO,Package_TO_SOT_SMD:SOT-23,C841299
+1,JTAG:U2,3.3V LDO,Package_TO_SOT_SMD:SOT-23,C83932
